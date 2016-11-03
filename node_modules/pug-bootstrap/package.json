@@ -1,0 +1,64 @@
+{
+  "name": "pug-bootstrap",
+  "version": "0.0.3",
+  "description": "Bootstrap framework written completely using mixins in pug",
+  "main": "bootstrap.pug",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-goodwin/pug-bootstrap.git"
+  },
+  "keywords": [
+    "pug",
+    "bootstrap",
+    "twitter",
+    "bootstrap",
+    "frontend",
+    "ui",
+    "framework",
+    "mixins"
+  ],
+  "author": {
+    "name": "Mike Goodwin"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike-goodwin/pug-bootstrap/issues"
+  },
+  "homepage": "https://github.com/mike-goodwin/pug-bootstrap",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "pug": "^2.0.0-beta3"
+  },
+  "gitHead": "10b5df6a94da141b946c1f46819a33097813ef60",
+  "_id": "pug-bootstrap@0.0.3",
+  "_shasum": "de81c4bf63efd51c13a5af5bc8add689ea2a6a16",
+  "_from": "pug-bootstrap@latest",
+  "_npmVersion": "2.14.20",
+  "_nodeVersion": "4.4.0",
+  "_npmUser": {
+    "name": "mike.goodwin",
+    "email": "mike.goodwin@owasp.org"
+  },
+  "dist": {
+    "shasum": "de81c4bf63efd51c13a5af5bc8add689ea2a6a16",
+    "tarball": "https://registry.npmjs.org/pug-bootstrap/-/pug-bootstrap-0.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "mike.goodwin",
+      "email": "mike.goodwin@owasp.org"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/pug-bootstrap-0.0.3.tgz_1475179704536_0.14687438984401524"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/pug-bootstrap/-/pug-bootstrap-0.0.3.tgz"
+}
