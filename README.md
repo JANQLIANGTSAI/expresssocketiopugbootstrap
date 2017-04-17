@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-```
 /**
  * 
  * expresspugbootstrap
@@ -19,8 +16,6 @@
  * This source code is licensed under the BSD-style license.
  *
  */
-```
-
 
  
 ##expresssocketiopugbootstrap
@@ -38,6 +33,3 @@ NODE
 v4.6.0
 
 ***
-=======
-# buzzcano
->>>>>>> 601a00ea25c4ecef604d67d0937e74d64dc01f1e
